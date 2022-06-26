@@ -1,0 +1,15 @@
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\bin\Debug\net5.0\PracticaWeb.Data.deps.json
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\bin\Debug\net5.0\PracticaWeb.Data.runtimeconfig.json
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\bin\Debug\net5.0\PracticaWeb.Data.runtimeconfig.dev.json
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\bin\Debug\net5.0\PracticaWeb.Data.dll
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\bin\Debug\net5.0\PracticaWeb.Data.pdb
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.csproj.AssemblyReference.cache
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.AssemblyInfoInputs.cache
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.AssemblyInfo.cs
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.dll
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\refint\PracticaWeb.Data.dll
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.pdb
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\PracticaWeb.Data.genruntimeconfig.cache
+C:\Users\Lea\Desktop\cursada 1er cuatri-2022\web 3\workspace web 3\PracticaWeb.Web\PracticaWeb.Data\obj\Debug\net5.0\ref\PracticaWeb.Data.dll
